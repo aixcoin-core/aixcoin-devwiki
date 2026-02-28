@@ -1,2 +1,2 @@
-See the [wiki](https://github.com/bitcoin-core/bitcoin-devwiki/wiki).
+See the [wiki](https://github.com/aixcoin-core/aixcoin-devwiki/wiki).
 
